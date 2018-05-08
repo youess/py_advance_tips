@@ -15,10 +15,13 @@
 ## PART2 函数
 
 14. [尽量用异常表示特殊情况，不要返回None](./src/part2/14_func_special_val.py)
+15. [了解如何在闭包里使用外围作用域中的变量](./src/part2/15_clousure_scope.py)
+16. [考虑用生成器代替直接返回的列表函数](./src/part2/16_generator_return.py)
 
 ## PART3 类与继承
 
 22. [尽量使用辅助类，而不要用字典和元祖进行多重嵌套](./src/part3/22_helper_class.py)
+23. [简单的接口应该接受函数而不是类的实例](./src/part3/23_api_func.py)
 
 ## PART4 元类与属性
 
