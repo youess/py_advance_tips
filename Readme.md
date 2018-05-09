@@ -34,6 +34,8 @@
 ## PART6 内置模块
 
 42. [用functools.wraps定义函数修饰器](./src/part6/42_wrap.py)
+43. [用with语句替代try ... finally代码](./src/part6/43_with_context.py)
+46. [使用内置算法与数据结构](./src/part6/46_dsa_internal.py)
 
 ## PART7 协作开发
 
