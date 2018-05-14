@@ -22,6 +22,8 @@
 
 22. [尽量使用辅助类，而不要用字典和元祖进行多重嵌套](./src/part3/22_helper_class.py)
 23. [简单的接口应该接受函数而不是类的实例](./src/part3/23_api_func.py)
+27. [多用public属性，少用private属性](./src/part3/27_public_less.py)
+28. [继承collections.abc以实现自定义的容器类型](./src/part3/28_abc_type.py)
 
 ## PART4 元类与属性
 
